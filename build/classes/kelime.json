@@ -1,0 +1,762 @@
+{
+  "animals": [
+    {
+      "word": "alligator",
+      "definition": "a large reptile with a hard skin that lives in and near rivers and lakes in the hot, wet parts of America and China."
+    },
+    {
+      "word": "ant",
+      "definition": "a very small insect that lives under the ground in large and well-organized social groups"
+    },
+    {
+      "word": "armadillo",
+      "definition": "a small animal whose body is covered in hard strips that allow it to roll into a ball when attacked"
+    },
+    {
+      "word": "baboon",
+      "definition": "a type of large monkey, found in Africa and Asia, with a long, pointed face like a dog and large teeth"
+    },
+    {
+      "word": "bat",
+      "definition": "a small animal like a mouse with wings that flies at night"
+    },
+    {
+      "word": "bear",
+      "definition": "a large, strong, wild animal with thick fur"
+    },
+    {
+      "word": "bee",
+      "definition": "a flying insect that has a yellow and black body and makes honey "
+    },
+    {
+      "word": "bird",
+      "definition": "an animal that has wings and feathers and is usually able to fly"
+    },
+    {
+      "word": "butterfly",
+      "definition": "an insect with large, patterned wings"
+    },
+    {
+      "word": "camel",
+      "definition": "a large animal that lives in the desert and has one or two humps "
+    },
+    {
+      "word": "caterpillar",
+      "definition": "a small, long animal with many legs that eats leaves"
+    },
+    {
+      "word": "cheetah",
+      "definition": "a large, wild cat that has black spots and can run very fast"
+    },
+    {
+      "word": "chicken",
+      "definition": "a bird kept on a farm for its meat and eggs"
+    },
+    {
+      "word": "chimpanzee",
+      "definition": "an African animal like a large monkey"
+    },
+    {
+      "word": "cobra",
+      "definition": "a poisonous snake that makes the skin of its neck wide and flat when it is going to attack"
+    },
+    {
+      "word": "cockroach",
+      "definition": "a large, brown or black insect that can live in houses and places where food is prepared"
+    },
+    {
+      "word": "crocodile",
+      "definition": "a big reptile with a long mouth and sharp teeth, that lives in lakes and rivers"
+    },
+    {
+      "word": "deer",
+      "definition": "a large, wild animal that is sometimes hunted for food and that has antlers if it is male"
+    },
+    {
+      "word": "dinosaur",
+      "definition": "a very large animal that used to live millions of years ago"
+    },
+    {
+      "word": "dog",
+      "definition": "an animal with fur, four legs, and a tail that is kept as a pet, or trained to guard buildings and guide blind people"
+    },
+    {
+      "word": "dolphin",
+      "definition": "an intelligent animal that lives in the sea, breathes air, and looks like a large, smooth, grey fish"
+    },
+    {
+      "word": "donkey",
+      "definition": "an animal that looks like a small horse with long ears"
+    },
+    {
+      "word": "duck",
+      "definition": "a bird with short legs that lives in or near water, or the meat from this bird"
+    },
+    {
+      "word": "eagle",
+      "definition": "a large, wild bird with a big, curved beak, that hunts smaller animals"
+    },
+    {
+      "word": "elephant",
+      "definition": "a very large, grey animal with big ears and a very long nose"
+    },
+    {
+      "word": "fish",
+      "definition": "an animal that lives only in water and swims using its tail and fins"
+    },
+    {
+      "word": "giraffe",
+      "definition": "a large African animal with a very long neck and long, thin legs"
+    },
+    {
+      "word": "goat",
+      "definition": "an animal with horns that is kept for the milk it produces"
+    },
+    {
+      "word": "gorilla",
+      "definition": "a big, black, hairy animal, like a large monkey"
+    },
+    {
+      "word": "hamster",
+      "definition": "a small animal with soft fur and no tail that is often kept as a pet"
+    },
+    {
+      "word": "horse",
+      "definition": "a large animal with four legs, which people ride or use to pull heavy things"
+    },
+    {
+      "word": "kangaroo",
+      "definition": "a large Australian animal that moves by jumping on its back legs"
+    },
+    {
+      "word": "lemur",
+      "definition": "a small animal from Madagascar, similar to a monkey with thick fur and a long tail, that lives in trees and is active at night"
+    },
+    {
+      "word": "lion",
+      "definition": "a large wild animal of the cat family with yellowish-brown fur that lives in Africa and southern Asia"
+    },
+    {
+      "word": "lobster",
+      "definition": "an animal that lives in the sea and has a long body covered with a hard shell, two large claws, and eight legs, or its flesh when used as food"
+    },
+    {
+      "word": "monkey",
+      "definition": "an animal that lives in hot countries, has a long tail, and climbs trees"
+    },
+    {
+      "word": "mongoose",
+      "definition": "a small tropical animal with a long tail that eats snakes, rats, and birds' eggs"
+    },
+    {
+      "word": "mouse",
+      "definition": "a small mammal with short fur, a pointed face, and a long tail"
+    },
+    {
+      "word": "mosquito",
+      "definition": "a small flying insect that bites people and animals and sucks their blood"
+    },
+    {
+      "word": "octopus",
+      "definition": "a sea creature with a soft, oval body and eight tentacles "
+    },
+    {
+      "word": "ostrich",
+      "definition": "a very large bird from Africa that cannot fly"
+    },
+    {
+      "word": "otter",
+      "definition": "a mammal with four legs and short brown fur that swims well and eats fish"
+    },
+    {
+      "word": "owl",
+      "definition": "a bird with a flat face and large eyes that hunts small mammals at night"
+    },
+    {
+      "word": "panda",
+      "definition": "a large, black and white mammal that lives in forests in China."
+    },
+    {
+      "word": "parrot",
+      "definition": "a tropical bird with a curved beak, often kept as a pet and trained to copy the human voice"
+    },
+    {
+      "word": "pigeon",
+      "definition": "a large, usually grey bird that is often seen in towns sitting on buildings in large groups, and is sometimes eaten as food"
+    },
+    {
+      "word": "rabbit",
+      "definition": "a small animal with long ears and large front teeth that moves by jumping on its long back legs, or the meat of this animal eaten as food"
+    },
+    {
+      "word": "rat",
+      "definition": "a small rodent, larger than a mouse, that has a long tail and is considered to be harmful"
+    },
+    {
+      "word": "seahorse",
+      "definition": "a small fish that swims in a vertical position and has a head like that of a horse"
+    },
+    {
+      "word": "shark",
+      "definition": "a large fish that has sharp teeth and a pointed fin on its back"
+    },
+    {
+      "word": "sheep",
+      "definition": "a farm animal with thick wool that eats grass and is kept for its wool, skin, and meat"
+    },
+    {
+      "word": "snake",
+      "definition": "a reptile with a long body and no legs"
+    },
+    {
+      "word": "sloth",
+      "definition": "a mammal that moves slowly and lives in trees"
+    },
+    {
+      "word": "spider",
+      "definition": "a small creature with eight thin legs that catches insects in a web"
+    },
+    {
+      "word": "squirrel",
+      "definition": "a small animal covered in fur with a long tail. This animal climb trees and feed on nuts and seeds."
+    },
+    {
+      "word": "tiger",
+      "definition": "a large wild animal of the cat family with yellowish-orange fur with black lines that lives in parts of Asia"
+    },
+    {
+      "word": "turtle",
+      "definition": "an animal which lives in or near water and has a thick shell covering its body into which it can move its head and legs for protection"
+    },
+    {
+      "word": "whale",
+      "definition": "a very large sea mammal that breathes air through a hole at the top of its head"
+    },
+    {
+      "word": "wolf",
+      "definition": "a wild animal of the dog family"
+    },
+    {
+      "word": "zebra",
+      "definition": "an African wild animal that looks like a horse, with black or brown and white lines on its body"
+    }
+  ],
+  "fruits": [
+    {
+      "word": "Apple",
+      "definition": "a round fruit with firm, white flesh and a green, red, or yellow skin"
+    },
+    {
+      "word": "Avocado",
+      "definition": "a tropical fruit with thick, dark green or purple skin, a large, round seed, and soft, pale green flesh that can be eaten"
+    },
+    {
+      "word": "Banana",
+      "definition": "a long, curved fruit with a yellow skin and soft, sweet, white flesh inside"
+    },
+    {
+      "word": "Blackberry",
+      "definition": "a small dark purple fruit that grows wild in Europe and is usually cooked before being eaten"
+    },
+    {
+      "word": "Cherry",
+      "definition": "a small, round, soft red or black fruit with a single hard seed in the middle, or the tree on which the fruit grows"
+    },
+    {
+      "word": "Coconut",
+      "definition": "a large fruit like a nut with a thick, hard, brown shell covered in fibre and containing hard, white flesh that can be eaten and a clear liquid"
+    },
+    {
+      "word": "Cucumber",
+      "definition": "a long, thin, pale green vegetable with dark green skin, usually eaten uncooked in salads"
+    },
+    {
+      "word": "Dragonfruit",
+      "definition": "the fruit of a cactus that has bright red or yellow skin and white or red flesh with many small black seeds"
+    },
+    {
+      "word": "Grape",
+      "definition": "a small, round, purple or pale green fruit that you can eat or make into wine"
+    },
+    {
+      "word": "Lemon",
+      "definition": "an oval fruit that has a thick, yellow skin and sour juice, or the small tree on which this fruit grows"
+    },
+    {
+      "word": "Mango",
+      "definition": "an oval tropical fruit with a smooth skin, orange-yellow flesh, and a large, hard seed in the middle"
+    },
+    {
+      "word": "Melon",
+      "definition": "a large, round fruit with hard yellow or green skin, sweet flesh, and a lot of seeds"
+    },
+    {
+      "word": "Watermelon",
+      "definition": "a large, round or oval-shaped fruit with dark green skin, sweet pink flesh, and a lot of black seeds"
+    },
+    {
+      "word": "Olive",
+      "definition": "a small bitter green or black fruit that is eaten or used to produce oil, or a Mediterranean tree on which this fruit grows"
+    },
+    {
+      "word": "Orange",
+      "definition": "a round sweet fruit that has a thick orange skin and an orange centre divided into many parts"
+    },
+    {
+      "word": "Mandarin",
+      "definition": "a small, sweet type of orange that has a thinner, looser skin"
+    },
+    {
+      "word": "Papaya",
+      "definition": "a large oval fruit with a yellowish skin and sweet orange flesh, or the tropical tree on which this grows"
+    },
+    {
+      "word": "Passionfruit",
+      "definition": "a small fruit with thick purple or yellow skin and many seeds"
+    },
+    {
+      "word": "Peach",
+      "definition": "a round fruit with sweet yellow flesh that has a lot of juice, a slightly furry red and yellow skin, and a large seed in its centre"
+    },
+    {
+      "word": "Pear",
+      "definition": "a sweet fruit, usually with a green skin and a lot of juice, that has a round base and is slightly pointed towards the stem"
+    },
+    {
+      "word": "Pineapple",
+      "definition": "a large tropical fruit with a rough orange or brown skin and pointed leaves on top"
+    },
+    {
+      "word": "Raspberry",
+      "definition": "a small soft red fruit, or the bush on which it grows"
+    },
+    {
+      "word": "Strawberry",
+      "definition": "a small juicy red fruit that has small brown seeds on its surface, or the plant with white flowers on which this fruit grows"
+    }
+  ],
+  "sports": [
+    {
+      "word": "archer",
+      "definition": "a person who shoots arrows from a bow for sport or as a weapon"
+    },
+    {
+      "word": "badminton",
+      "definition": "a sport in which two or four people hit a shuttlecock over a high net"
+    },
+    {
+      "word": "bicycle",
+      "definition": "a two-wheeled vehicle that you sit on and move by turning the two pedals "
+    },
+    {
+      "word": "bike",
+      "definition": "a bicycle"
+    },
+    {
+      "word": "bow",
+      "definition": "a weapon for shooting arrows, made of a long, thin piece of wood bent into a curve by a tightly stretched string"
+    },
+    {
+      "word": "box",
+      "definition": "any square or rectangular space on a form, sports field, road, etc., separated from the main area by lines"
+    },
+    {
+      "word": "cricket",
+      "definition": "a sport in which two teams of eleven players try to score runs by hitting a small, hard ball with a bat, and running between two sets of small wooden posts"
+    },
+    {
+      "word": "dart",
+      "definition": "a small, thin object with a sharp point that is thrown by hand in a game, shot from a gun, or blown from a tube when used as a weapon"
+    },
+    {
+      "word": "fitness",
+      "definition": "activities relating to keeping healthy and strong, especially through exercise"
+    },
+    {
+      "word": "exercise",
+      "definition": "physical activity that you do to make your body strong and healthy"
+    },
+    {
+      "word": "diver",
+      "definition": "a person who dives as a sport, or who works or searches for things underwater using special breathing equipment"
+    },
+    {
+      "word": "frisbee",
+      "definition": "a brand name for a circular piece of plastic with a curved edge that is thrown between people as a game"
+    },
+    {
+      "word": "golf",
+      "definition": "a game played outside on grass in which each player tries to hit a small ball into a series of nine or 18 small holes, using a long, thin stick"
+    },
+    {
+      "word": "guard",
+      "definition": "a player who supports and defends other players of his or her team"
+    },
+    {
+      "word": "Bowling",
+      "definition": "a game played inside, in which you roll a heavy ball down a track to try to knock down a group of pins"
+    },
+    {
+      "word": "Curling",
+      "definition": "a game played on ice in which special flat, round stones are slid towards a mark"
+    },
+    {
+      "word": "Skateboarding",
+      "definition": "the activity or sport of riding a skateboard"
+    },
+    {
+      "word": "Tennis",
+      "definition": "a game played between two or four people on a special playing area that involves hitting a small ball across a central net using a racket"
+    },
+    {
+      "word": "Surfing",
+      "definition": "the sport of riding on a wave on a special board"
+    },
+    {
+      "word": "Hockey",
+      "definition": "a game played on a sports field between two teams of eleven players who each have a curved stick with which they try to put a small, hard ball into the other team's goal"
+    },
+    {
+      "word": "Yoga",
+      "definition": "a set of physical and mental exercises, originally from India, intended to give control over the body and mind"
+    },
+    {
+      "word": "Fencing",
+      "definition": "the sport of fighting with long, thin swords"
+    },
+    {
+      "word": "Gymnastics",
+      "definition": "physical exercises and activities performed inside, often using equipment such as bars and ropes, intended to increase the body's strength and the ability to move and bend easily"
+    },
+    {
+      "word": "Karate",
+      "definition": "a sport, originally from Japan, in which people fight using their arms, legs, hands, and feet. The level of skill a person has is shown by what colour belt they wear"
+    },
+    {
+      "word": "Volleyball",
+      "definition": "a game in which two teams use their hands to hit a large ball backwards and forwards over a high net without allowing the ball to touch the ground"
+    },
+    {
+      "word": "Weightlifting",
+      "definition": "the activity of lifting heavy objects either as a sport or for exercise"
+    },
+    {
+      "word": "Basketball",
+      "definition": "a game played by two teams of five players who score points by throwing a large ball through an open net hanging from a metal ring"
+    },
+    {
+      "word": "Baseball",
+      "definition": "a game played especially in North America by two teams of nine players, in which a player hits a ball with a bat and tries to run around four bases on a large field before the other team returns the ball"
+    },
+    {
+      "word": "Rugby",
+      "definition": "a sport where two teams try to score points by carrying an oval ball across a particular line or kicking it over and between an H-shaped set of posts"
+    },
+    {
+      "word": "Wrestling",
+      "definition": "a sport in which two people fight and try to throw each other to the ground"
+    },
+    {
+      "word": "Running",
+      "definition": "the activity of going somewhere quickly on foot, as a sport or for pleasure"
+    },
+    {
+      "word": "Fishing",
+      "definition": "the sport or job of catching fish"
+    },
+    {
+      "word": "Table tennis",
+      "definition": "a game that is played on a large table where two or four players hit a ball over a low net using small, round bats"
+    },
+    {
+      "word": "Judo",
+      "definition": "a sport in which two people fight using their arms and legs and hands and feet, and try to throw each other to the ground"
+    },
+    {
+      "word": "Climbing",
+      "definition": "the sport of climbing on rocks or in mountains"
+    },
+    {
+      "word": "Shooting",
+      "definition": "the sport of shooting animals or birds"
+    },
+    {
+      "word": "Horse racing",
+      "definition": "a sport in which people race on horses, usually to win money for the horses' owners"
+    },
+    {
+      "word": "Football",
+      "definition": "a game played between two teams of eleven people, where each team tries to win by kicking a ball into the other team's goal"
+    },
+    {
+      "word": "Soccer ",
+      "definition": "a game played between two teams of eleven people, where each team tries to win by kicking a ball into the other team's goal"
+    },
+    {
+      "word": "scuba diving",
+      "definition": "the sport of swimming underwater with special breathing equipment"
+    },
+    {
+      "word": "wind surfing",
+      "definition": "a sport in which you sail across water by standing on a board and holding onto a large sail"
+    },
+    {
+      "word": "rafting",
+      "definition": "the use of a rubber raft to travel with the current of a river, especially as a sport"
+    },
+    {
+      "word": "paddle boarding",
+      "definition": "a sport in which you travel across water or ride on waves using a board, which you can sit or stand on, and sometimes paddle"
+    },
+    {
+      "word": "aikido",
+      "definition": "a sport, created in Japan as a type of self-defence, in which you hold and throw your opponent and use his or her own movements"
+    },
+    {
+      "word": "bodybuilding",
+      "definition": "special exercises that you do regularly to make your muscles bigger"
+    },
+    {
+      "word": "figure skating",
+      "definition": "a type of skating that involves circular patterns and often includes jumps"
+    }
+  ],
+  "bodyparts": [
+    {
+      "word": "Adam's apple",
+      "definition": "the part of your throat that sticks out, especially in men, and moves up and down when you speak or swallow"
+    },
+    {
+      "word": "ankle",
+      "definition": "the joint between the foot and the leg, or the thin part of the leg just above the foot"
+    },
+    {
+      "word": "anus",
+      "definition": "the opening at the end of the alimentary canal through which solid waste leaves the body"
+    },
+    {
+      "word": "appendix",
+      "definition": "a small tube-shaped part that is joined to the intestines on the right side of the body and has no use in humans"
+    },
+    {
+      "word": "arch",
+      "definition": "any organ or part of the body that is curved in shape"
+    },
+    {
+      "word": "arm",
+      "definition": "either of the two long parts of the upper body that are attached to the shoulders and have the hands at the end"
+    },
+    {
+      "word": "back",
+      "definition": "the part of your body that is opposite to the front, from your shoulders to your bottom"
+    },
+    {
+      "word": "belly",
+      "definition": "the stomach or the front part of the body between your chest and your legs"
+    },
+    {
+      "word": "blood",
+      "definition": "the red liquid that is sent around the body by the heart, and carries oxygen and important substances to organs and tissue, and removes waste products"
+    },
+    {
+      "word": "brain",
+      "definition": "the organ inside the head that controls thought, memory, feelings, and activity"
+    },
+    {
+      "word": "bone",
+      "definition": "any of the hard parts inside a human or animal that make up its frame"
+    },
+    {
+      "word": "breast",
+      "definition": "a person's chest"
+    },
+    {
+      "word": "calf",
+      "definition": "the thick curved part at the back of the human leg between the knee and the foot"
+    },
+    {
+      "word": "cell",
+      "definition": "the smallest basic unit of a plant or animal"
+    },
+    {
+      "word": "cheek",
+      "definition": "the soft part of your face that is below your eye and between your mouth and ear"
+    },
+    {
+      "word": "chin",
+      "definition": "the part of a person's face below their mouth"
+    },
+    {
+      "word": "chest",
+      "definition": "the upper front part of the body of humans and some animals, between the stomach and the neck, containing the heart and lungs"
+    },
+    {
+      "word": "digestive system",
+      "definition": "the organs in your body involved with the digestion of food"
+    },
+    {
+      "word": "ear",
+      "definition": "either of the two organs, one on each side of the head, by which people or animals hear sounds, or the piece of skin and tissue outside the head connected to this organ"
+    },
+    {
+      "word": "elbow",
+      "definition": "the part in the middle of the arm where it bends"
+    },
+    {
+      "word": "eye",
+      "definition": "one of the two organs in your face that are used for seeing"
+    },
+    {
+      "word": "eyebrow",
+      "definition": "the line of short hairs above each eye in humans"
+    },
+    {
+      "word": "eyelashes",
+      "definition": "any of the short hairs that grow along the edges of the eye"
+    },
+    {
+      "word": "face",
+      "definition": "the front of the head, where the eyes, nose, and mouth are"
+    },
+    {
+      "word": "fallopian tubes",
+      "definition": "two tubes in a woman's body along which eggs travel from the ovaries to the womb"
+    },
+    {
+      "word": "foot",
+      "definition": "the part of the body at the bottom of the leg on which a person or animal stands"
+    },
+    {
+      "word": "forehead",
+      "definition": "the flat part of the face, above the eyes and below the hair"
+    },
+    {
+      "word": "hair",
+      "definition": "the mass of thin thread-like structures on the head of a person, or any of these structures that grow out of the skin of a person or animal"
+    },
+    {
+      "word": "hand",
+      "definition": "the part of the body at the end of the arm that is used for holding, moving, touching, and feeling things"
+    },
+    {
+      "word": "head",
+      "definition": "the part of the body above the neck where the eyes, nose, mouth, ears, and brain are"
+    },
+    {
+      "word": "heart",
+      "definition": "the organ in your chest that sends the blood around your body"
+    },
+    {
+      "word": "heel",
+      "definition": "the rounded back part of the foot"
+    },
+    {
+      "word": "iris",
+      "definition": "the coloured circular part of that eye that surrounds the black pupil"
+    },
+    {
+      "word": "jaw",
+      "definition": "the lower part of your face that moves when you open your mouth"
+    },
+    {
+      "word": "knee",
+      "definition": "the middle joint of the leg that allows the leg to bend"
+    },
+    {
+      "word": "finger",
+      "definition": "any of the long, thin, separate parts of the hand"
+    },
+    {
+      "word": "kidney",
+      "definition": "either of a pair of small organs in the body that take away waste matter from the blood to produce urine"
+    },
+    {
+      "word": "leg",
+      "definition": "one of the parts of the body of a human or animal that is used for standing or walking"
+    },
+    {
+      "word": "liver",
+      "definition": "a large organ in the body that cleans the blood and produces bile"
+    },
+    {
+      "word": "lungs",
+      "definition": "either of the two organs in the chest with which people and some animals breathe"
+    },
+    {
+      "word": "mouth",
+      "definition": "the opening in the face of a person or animal, consisting of the lips and the space between them"
+    },
+    {
+      "word": "muscle",
+      "definition": "one of many tissues in the body that can tighten and relax to produce movement"
+    },
+    {
+      "word": "nail",
+      "definition": "a thin, hard area that covers the upper side of the end of each finger and each toe"
+    },
+    {
+      "word": "neck",
+      "definition": "the part of the body that joins the head to the shoulders"
+    },
+    {
+      "word": "nipple",
+      "definition": "the dark part of the skin which sticks out from the breast of a mammal and through which milk is supplied to the young"
+    },
+    {
+      "word": "nose",
+      "definition": "the part of the face that sticks out above the mouth, through which you breathe and smell"
+    },
+    {
+      "word": "pancreas",
+      "definition": "an organ in the body that produces insulin and substances that help to digest food so that it can be used by the body"
+    },
+    {
+      "word": "shoulder",
+      "definition": "one of the two parts of the body at each side of the neck that join the arms to the rest of the body"
+    },
+    {
+      "word": "skin",
+      "definition": "the skin of an animal that has been removed from the body, with or without the hair or fur"
+    },
+    {
+      "word": "skeleton",
+      "definition": "the frame of bones supporting a human or animal body"
+    },
+    {
+      "word": "stomach",
+      "definition": "an organ in the body where food is digested, or the soft front part of your body just below the chest"
+    },
+    {
+      "word": "tooth",
+      "definition": "one of the hard, white objects in the mouth that are used for biting and chewing"
+    },
+    {
+      "word": "throat",
+      "definition": "the front of the neck, or the space inside the neck down which food and air can go"
+    },
+    {
+      "word": "thumb",
+      "definition": "the short, thick finger on the side of your hand that makes it possible to hold and pick things up easily"
+    },
+    {
+      "word": "thyroid",
+      "definition": "an organ in the front of the neck that is involved in controlling the way the body develops and works"
+    },
+    {
+      "word": "tongue",
+      "definition": "the large, soft piece of flesh in the mouth that you can move, and is used for tasting, speaking"
+    },
+    {
+      "word": "vein",
+      "definition": "a tube that carries blood to the heart from the other parts of the body"
+    },
+    {
+      "word": "waist",
+      "definition": "the part of the body above and slightly narrower than the hips"
+    },
+    {
+      "word": "wrist",
+      "definition": "the part of the body between the hand and the arm"
+    }
+  ]
+}
